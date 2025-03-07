@@ -1,4 +1,4 @@
-![logo](https://github.com/thevivekchauhan/thevivekchauhan/blob/main/poster.jpg)
+![logo](https://github.com/thevivekchauhan/thevivekchauhan/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Vivek Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
