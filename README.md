@@ -35,22 +35,8 @@
 
 
 
-# 🌍 My Global Contributions
+# 🌍 World
 
 > Tracking my impact across the world! 🚀  
 
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
-
-## 🗺️ About This Map  
-This world map represents the areas where my projects, contributions, or influence have reached. Whether it's open-source contributions, collaborations, or projects making a difference, this map is a visual representation of my global footprint.  
-
-### 🌟 Highlights:
-- 🚀 Open-source projects reaching global audiences  
-- 💻 Contributions to international repositories  
-- 🌎 Aiming to make a global impact!  
-
----
-
-🔗 **Follow my journey** 🌍  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
