@@ -35,15 +35,22 @@
 
 
 
+# 🌍 My Global Contributions
 
+> Tracking my impact across the world! 🚀  
 
+![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
 
-<p align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com?user=thevivekchauhan&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=thevivekchauhan&theme=dark&hide_border=true)" alt="GitHub Streak Stats">
-</p>
+## 🗺️ About This Map  
+This world map represents the areas where my projects, contributions, or influence have reached. Whether it's open-source contributions, collaborations, or projects making a difference, this map is a visual representation of my global footprint.  
 
-<div align="center">
-<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+### 🌟 Highlights:
+- 🚀 Open-source projects reaching global audiences  
+- 💻 Contributions to international repositories  
+- 🌎 Aiming to make a global impact!  
 
-<img src="https://raw.githubusercontent.com/thevivekchauhan /thevivekchauhan /output/snake.svg" alt="Snake animation" />
+---
+
+🔗 **Follow my journey** 🌍  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
