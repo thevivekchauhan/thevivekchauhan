@@ -34,7 +34,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=false)
 
 <p align="center">
-<img src="[https://github-readme-streak-stats.herokuapp.com?user=thevivekchauhan&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=thevivekchauhan&theme=dark&hide_border=true)" alt="GitHub Streak Stats">
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=thevivekchauhan&theme=dark&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=thevivekchauhan&theme=dark&hide_border=true)" alt="GitHub Streak Stats 123">
 </p>
 
 <div align="center">
