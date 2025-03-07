@@ -34,9 +34,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=false)
 
 
+# 🌍 <span style="color:#FF5733;">World</span>
 
-# 🌍 World
-
-> Tracking my impact across the world! 🚀  
+> <span style="color:#33C3FF;">Tracking my impact across the world!</span> 🚀  
 
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
