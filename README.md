@@ -31,16 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&locale=en" alt="thevivekchauhan" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=light&hide_border=false)
 
 
 
-
-Some features like `plugin_stagazers_worldmap` require a Google Geocoding API token.
-Follow instructions from their [documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key) for more informations.
-
-> 💳 A billing account is required to get a token. However a recurring [monthly credit](https://developers.google.com/maps/billing-credits#monthly) is offered which means you should not be charged if you don't exceed the free quota.
->
-> It is advised to set the quota limit at 1200 requests per day
->
-> Use at your own risk, *metrics* and its authors cannot be held responsible for anything charged.
