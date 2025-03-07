@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&locale=en" alt="thevivekchauhan" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=light&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=false)
 
 
 
