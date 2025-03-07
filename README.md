@@ -36,6 +36,6 @@
 
 # 🌍 <span style="color:#FF5733;">World</span>
 
-> <span style="color:#33C3FF;">Tracking my impact across the world!</span> 🚀  
+> <span style="color:#33C3FF;">One day I travel across the world!</span> 🚀  
 
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
