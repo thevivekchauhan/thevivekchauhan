@@ -7,7 +7,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevivekchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="thevivekchauhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevivekchauhan" alt="thevivekchauhan" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thevivekchauhan&theme=gruvbox&row=1&column=3&margin-w=15&margin-h=15&no-frame=true&rank=SSS&title=Followers,Repos,Stars,Commit,Issues" alt="thevivekchauhan" style="width: 500px; height: auto;" />
+  </a>
+</p>
+
 
 - 👨💻 All of my projects are available at [https://imvivekchauhan.netlify.app/](https://imvivekchauhan.netlify.app/)
 
