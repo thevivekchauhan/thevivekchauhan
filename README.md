@@ -41,6 +41,10 @@
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+</p>
+
 # 🌍 <span style="color:#FF5733;">World</span>
 
 > <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀  
