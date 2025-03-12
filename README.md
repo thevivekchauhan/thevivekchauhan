@@ -36,10 +36,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&locale=en" alt="thevivekchauhan" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./light.png">
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 # 🌍 <span style="color:#FF5733;">World</span>
 
