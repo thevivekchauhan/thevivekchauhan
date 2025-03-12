@@ -37,10 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&locale=en" alt="thevivekchauhan" /></p>
 
 
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=github-light" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=github-light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
 
