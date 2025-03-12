@@ -36,10 +36,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&locale=en" alt="thevivekchauhan" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=false)
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=light" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
