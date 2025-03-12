@@ -45,36 +45,6 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 </p>
 
-const axios = require("axios");
-
-const username = "your-github-thevivekchauhan"; 
-
-async function getStreak(thevivekchauhan) {
-    try {
-        const response = await axios.get(`https://api.github.com/users/${thevivekchauhan}/events`);
-        const events = response.data;
-
-        let streak = 0;
-        let lastDate = null;
-
-        events.forEach(event => {
-            const eventDate = new Date(event.created_at).toDateString();
-
-            if (lastDate === eventDate || lastDate === null) {
-                streak++;
-                lastDate = eventDate;
-            }
-        });
-
-        console.log(`🔥 ${thevivekchauhan}'s current GitHub streak: ${streak} days`);
-    } catch (error) {
-        console.error("Error fetching GitHub events:", error.message);
-    }
-}
-
-getStreak(thevivekchauhan);
-
-
 # 🌍 <span style="color:#FF5733;">World</span>
 
 > <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀  
