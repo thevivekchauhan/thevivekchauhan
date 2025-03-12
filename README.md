@@ -39,14 +39,10 @@
 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=github-light" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=github-light" />
 </picture>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=light" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
 
 
 # 🌍 <span style="color:#FF5733;">World</span>
