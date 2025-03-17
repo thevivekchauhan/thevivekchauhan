@@ -18,6 +18,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Readme Streak Stats</h3>
+</p>
+
 
 - 👨💻 All of my projects are available at [https://imvivekchauhan.netlify.app/](https://imvivekchauhan.netlify.app/)
 
