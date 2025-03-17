@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://thevivekchauhan.netlify.app/" target="_blank">thevivekchauhan.netlify.app</a>
 
-- 📝 I regularly write articles on <a href="https://vivekchauhanvlog.netlify.app/" target="_blank">vivekchauhanvlog.netlify.app</a>
+- 📝 I write articles on <a href="https://vivekchauhanvlog.netlify.app/" target="_blank">vivekchauhanvlog.netlify.app</a>
 
 - 📫 How to reach me **thechauhanvivek@gmail.com**
 
