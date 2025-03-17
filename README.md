@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevivekchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="vivek" /> </p>
+
 
 <p align="center"> 
-  <br>
-  <img src="https://profile-counter.glitch.me/thevivekchauhan/count.svg" />
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 <p align="left">
@@ -18,10 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <h3 align="center">Github Readme Streak Stats</h3>
-</p>
 
 
 - 👨💻 All of my projects are available at [https://imvivekchauhan.netlify.app/](https://imvivekchauhan.netlify.app/)
