@@ -46,7 +46,12 @@
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
+</picture>
+
 
 
 # 🌍 <span style="color:#FF5733;">World</span>
