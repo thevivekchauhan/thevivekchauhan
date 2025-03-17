@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevivekchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="vivek" /> </p>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <br>
+  <img src="https://profile-counter.glitch.me/thevivekchauhan/count.svg" />
 </p>
 
 <p align="left">
