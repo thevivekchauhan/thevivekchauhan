@@ -9,7 +9,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thevivekchauhan/count.svg" />
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 <p align="left">
