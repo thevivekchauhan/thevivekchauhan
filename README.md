@@ -41,13 +41,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekchauhan&show_icons=true&locale=en&layout=compact" alt="thevivekchauhan" /></p>
 
 
-
-
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=light" />
-    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
 </picture>
-
 
 
 # 🌍 <span style="color:#FF5733;">World</span>
