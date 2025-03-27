@@ -41,13 +41,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekchauhan&show_icons=true&locale=en&layout=compact" alt="thevivekchauhan" /></p>
 
 
-
-    @media (prefers-color-scheme: dark) {
-        #streak-img {
-            content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark");
-        }
-    }
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark" />
+</picture>
 
 
 
