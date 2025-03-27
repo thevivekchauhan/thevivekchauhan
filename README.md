@@ -41,21 +41,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekchauhan&show_icons=true&locale=en&layout=compact" alt="thevivekchauhan" /></p>
 
 
-<img id="streak-img" alt="GitHub Streak" />
 
-<style>
-    /* Light Mode Image */
-    #streak-img {
-        content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=default");
-    }
-
-    /* Dark Mode Image */
     @media (prefers-color-scheme: dark) {
         #streak-img {
             content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark");
         }
     }
-</style>
+
 
 
 
