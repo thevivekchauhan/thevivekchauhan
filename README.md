@@ -43,23 +43,9 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark" />
 </picture>
 
-
-<style>
-    img#streak-img {
-        content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=default");
-    }
-
-    @media (prefers-color-scheme: dark) {
-        img#streak-img {
-            content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark");
-        }
-    }
-</style>
-
-<img id="streak-img" alt="GitHub Streak" />
 
 
 
