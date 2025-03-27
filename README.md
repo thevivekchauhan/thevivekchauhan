@@ -47,6 +47,22 @@
 </picture>
 
 
+<style>
+    img#streak-img {
+        content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=default");
+    }
+
+    @media (prefers-color-scheme: dark) {
+        img#streak-img {
+            content: url("https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark");
+        }
+    }
+</style>
+
+<img id="streak-img" alt="GitHub Streak" />
+
+
+
 # 🌍 <span style="color:#FF5733;">World</span>
 
 > <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀  
