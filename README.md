@@ -9,7 +9,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
   <img src="https://profile-counter.glitch.me/thevivekchauhan/count.svg" />
 </p>
 
@@ -52,6 +51,8 @@
 
 # 🌍 <span style="color:#FF5733;">World</span>
 
-> <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀  
+> <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+> 
 
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
