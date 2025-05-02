@@ -56,7 +56,4 @@
 ![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
 
 
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thevivekchauhan&theme=light" />
-    <img src="https://streak-stats.demolab.com?user=thevivekchauhan&theme=light" />
-</picture>
+
