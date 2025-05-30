@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://thevivekchauhan.netlify.app/" target="_blank">thevivekchauhan.netlify.app</a>
 
-- 📝 This is my room click it and see 😯 <a href="https://vivekroom.vercel.app/" target="_blank">My Room</a>
+- 📝 This is my room click it and see 😯 <a href="https://vivekroom.vercel.app/" target="_blank">https://vivekroom.vercel.app</a>
 
 - 📫 How to reach me **thechauhanvivek@gmail.com**
 
