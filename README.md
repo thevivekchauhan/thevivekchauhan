@@ -41,14 +41,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekchauhan&show_icons=true&locale=en&layout=compact" alt="thevivekchauhan" /></p>
 
 
-
-
-# 🌍 <span style="color:#FF5733;">World</span>
-
-> <span style="color:#33C3FF;">One day, I will travel across the world and explore its wonders!</span> 🚀
-
-
-![World Map](https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg)
-
-
-
