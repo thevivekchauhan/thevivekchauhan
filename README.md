@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact **Programmers spend 90% of their time figuring out why their code isn’t working… and the other 10% wondering why it suddenly does. 😂**
 
+  <br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thevivekchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevivekchauhan" height="30" width="40" /></a>
