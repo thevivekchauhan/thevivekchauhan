@@ -40,4 +40,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevivekchauhan&show_icons=true&locale=en&layout=compact" alt="thevivekchauhan" /></p>
 
+### 🔥 My Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=thevivekchauhan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevivekchauhan&show_icons=true&theme=radical" alt="thevivekchauhan" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thevivekchauhan&layout=compact&theme=radical" alt="thevivekchauhan" width="48%"/>
+</p>
+
 
